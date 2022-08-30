@@ -1,12 +1,12 @@
 {
-    "name": "Renamer Bot",
-    "description": "Telegram File Renamer Bot ",
+    "name": "Renamer",
+    "description": "Telegram File ",
     "keywords": [
         "Renamer Bot",
         "Mongo DB"
     ],
-    "repository": "https://github.com/MRK-YT/RENAMER_BOT",
-    "success_url": "https://telegram.dog/mo_tech_group",
+    "repository": "https://github.com/adarshtpx/RENAMER_BOT",
+    "success_url": "https://telegram.dog/teamtpx",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MytelegramOrg_Bot",
